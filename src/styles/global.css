@@ -1,0 +1,13 @@
+.flex-1 {
+  flex: 1;
+}
+
+label {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.parsed-feed-viewer {
+  white-space: pre-wrap;
+  font-size: 14px;
+}
